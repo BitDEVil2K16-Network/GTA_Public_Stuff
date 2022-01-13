@@ -1,0 +1,6 @@
+-Added more Door Types
+-- New Types
+--- Slide Door
+--- Elevator Door
+--- Slide Gate
+--- Gate UP/DOWN
