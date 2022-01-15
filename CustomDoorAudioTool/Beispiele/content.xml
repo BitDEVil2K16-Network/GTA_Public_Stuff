@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+    <disabledFiles />
+    <includedXmlFiles />
+    <includedDataFiles />
+    <dataFiles>
+      <Item>
+          <filename>dlc_customdoorstest:/%PLATFORM%/audio/config/dlccustomdoorstest_game.dat</filename>
+          <fileType>AUDIO_GAMEDATA</fileType>
+          <overlay value="false" />
+          <disabled value="true" />
+          <persistent value="false" />
+      </Item>
+    </dataFiles>
+    <contentChangeSets>
+        <Item>
+            <changeSetName>CUSTOMDOORSTEST_STARTUP</changeSetName>
+            <mapChangeSetData />
+            <filesToInvalidate />
+            <filesToDisable />
+            <filesToEnable>
+              <Item>dlc_customdoorstest:/%PLATFORM%/audio/config/dlccustomdoorstest_game.dat</Item>
+            </filesToEnable>
+            <txdToLoad />
+            <txdToUnload />
+            <residentResources />
+            <unregisterResources />
+            <requiresLoadingScreen value="false" />
+        </Item>
+        <Item>
+            <changeSetName>CUSTOMDOORSTEST_MAP</changeSetName>
+            <mapChangeSetData>
+                <Item>
+                    <associatedMap>MO_JIM_L11</associatedMap>
+                    <filesToInvalidate />
+                    <filesToEnable>
+                    </filesToEnable>
+                </Item>
+            </mapChangeSetData>
+            <requiresLoadingScreen value="true"/>
+            <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+            <useCacheLoader value="true"/>
+        </Item>
+    </contentChangeSets>
+    <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
