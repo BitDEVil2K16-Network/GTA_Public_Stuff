@@ -1,7 +1,7 @@
 Dieses Update enthält folgende Änderungen\line\line
-*Add | ytyp creator 
-*Fix | Sound Up/Down
-*Add | other Version for Slide Gate
-*Add | Copy Option for ydr files
-*Edit | Help File has now detailed Informations
-Style ist auch ein wenig überarbeitet
+*Add | ytyp creator \line
+*Fix | Sound Up/Down\line
+*Add | other Version for Slide Gate\line
+*Add | Copy Option for ydr files\line
+*Edit | Help File has now detailed Informations\line
+Style ist auch ein wenig überarbeitet\line
