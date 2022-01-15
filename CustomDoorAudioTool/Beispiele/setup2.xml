@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSetupData>
+    <deviceName>dlc_customdoorstest</deviceName>
+    <datFile>content.xml</datFile>
+    <timeStamp>13/01/2022 13:37:00</timeStamp>
+    <nameHash>customdoorstest</nameHash>
+    <contentChangeSets/>
+    <contentChangeSetGroups>
+        <Item>
+            <NameHash>GROUP_STARTUP</NameHash>
+            <ContentChangeSets>
+                <Item>CUSTOMDOORSTEST_DLC_AUTOGEN</Item>
+                <Item>CUSTOMDOORSTEST_STARTUP</Item>
+            </ContentChangeSets>
+        </Item>
+        <Item>
+            <NameHash>GROUP_ON_DEMAND</NameHash>
+            <ContentChangeSets>
+                <Item>CUSTOMDOORSTEST_VERSIONED</Item>
+            </ContentChangeSets>
+        </Item>
+        <Item>
+            <NameHash>GROUP_MAP</NameHash>
+            <ContentChangeSets>
+                <Item>CUSTOMDOORSTEST_MAP</Item>
+            </ContentChangeSets>
+        </Item>
+        <Item>
+            <NameHash>GROUP_UPDATE_STREAMING</NameHash>
+            <ContentChangeSets>
+                <Item>CUSTOMDOORSTEST_STREAMING</Item>
+            </ContentChangeSets>
+        </Item>
+    </contentChangeSetGroups>
+    <startupScript/>
+    <scriptCallstackSize value="0"/>
+    <type>EXTRACONTENT_COMPAT_PACK</type>
+    <order value="25" />
+    <minorOrder value="0" />
+    <isLevelPack value="false" />
+    <dependencyPackHash />
+    <requiredVersion />
+    <subPackCount value="0" />
+</SSetupData>
