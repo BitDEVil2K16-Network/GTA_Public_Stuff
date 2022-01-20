@@ -1,2 +1,5 @@
 \uVersion 1.0.0.4\u0 Changes\line
 *Added Update Info on API\line
+*Testing [Preview Door Audio]\line\line
+
+Audio Type NONE is in created ytyp as normal prop with flag 0
