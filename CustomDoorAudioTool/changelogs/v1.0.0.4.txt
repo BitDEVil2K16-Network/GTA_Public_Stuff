@@ -1,5 +1,7 @@
-\uVersion 1.0.0.4\u0 Changes\line
+\u Version 1.0.0.4 \u0  Changes\line
 *Added Update Info on API\line
-*Testing [Preview Door Audio]\line\line
-
-Audio Type NONE is in created ytyp as normal prop with flag 0
+*Testing [Preview Door Audio]\line
+*File Extension Whitelist added(YDR only)\line
+Audio Type NONE is in created ytyp as normal prop with flag 0\line
+https://www.virustotal.com/gui/file/84a3c17dbdf09a7f10ea4cf871e284a02afb4e62b7bdac729890171cd65e8bb6?nocache=1
+\line
